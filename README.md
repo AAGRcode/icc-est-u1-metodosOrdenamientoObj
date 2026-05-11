@@ -1,18 +1,15 @@
-## Getting Started
+# Universidad Politecnica Salesiana
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Proyecto: Metodos Ordenamiento con Insercion y Seleccion
+## Estudiante: Axel Gonzalez
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+### Fecha: 2026-05-06
+### Descripcion:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+En esta primera clase se realizaron los primeros métodos utilizando el algoritmo de ordenamiento por inserción. Estos consistieron en ordenar un arreglo de personas por su edad, comparando cada elemento e insertándolo en la posición correcta dentro de la parte ya ordenada del arreglo. Además, se implementó otro método para ordenar alfabéticamente a las personas por su nombre, utilizando la comparación de cadenas con compareTo(), donde cada persona se va ubicando progresivamente en el orden correcto a medida que se recorre el arreglo.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### Fecha: 2026-05-11
+### Descripcion:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+En esta clase aparte de realizar los metodos de la clase anterior con insercion, se realizaron 2 metodos adicionales con Seleccion. El primero consisita en ordenar el arreglo de personas basado en el promedio de un arreglo de notas que poseia cada persona. Ademas, luego se creo el metodo para ordenar el arreglo de personas por el valor de su nombre basado en valores de letras impuestos por nosotros, es decir, las vocales tenian un valor de 5 mientras que las consonantes tenian el valor de la edad que le correspondia a cada persona. 
